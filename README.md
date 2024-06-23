@@ -1,8 +1,8 @@
-# Hi there, I'm Sakshi Pradeep! 👋
+# Hi there, I'm Sakshi Pradeep! 
 
 Welcome to my GitHub profile! I'm excited to share my journey, projects, and interests with you. Here's a little bit about me:
 
-## 🌟 About Me
+## About Me
 
 I am a passionate developer, lifelong learner, and tech enthusiast. I enjoy exploring new technologies and building innovative solutions to real-world problems. My areas of interest include:
 
@@ -11,7 +11,7 @@ I am a passionate developer, lifelong learner, and tech enthusiast. I enjoy expl
 - **Data Science:** Analyzing data to uncover meaningful insights.
 - **Open Source:** Contributing to and learning from the open-source community.
 
-## 🚀 Projects
+## Projects
 
 Here are a few projects that I'm proud of:
 
@@ -30,7 +30,7 @@ Our program involves the use of:
 ### [Project 3: Data Classification Project](https://github.com/sak-shi-prad-eep/data-classification-project)
 A machine learning project that focuses on classifying data into different categories. It includes data preprocessing, model training, and evaluation. Implemented using Python, scikit-learn, and Jupyter Notebook.
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 I'm always open to connecting with new people and exploring opportunities. Feel free to reach out to me through any of the following channels:
 
@@ -39,10 +39,10 @@ I'm always open to connecting with new people and exploring opportunities. Feel 
 - **Instagram:** [@sakshi_pradeep21](https://www.instagram.com/sakshi_pradeep21/)
 
 
-## ⚡ Fun Facts
+## Fun Facts
 
-- I love and am trained in Bharatnatyam, Odissi, and contemporary dance forms. 💃
-- I am a professionally trained swimmer and have participated and won many competitions. 🏊‍♀️
-- Food is my fuel for coding. 🍲
+- I love and am trained in Bharatnatyam, Odissi, and contemporary dance forms. 
+- I am a professionally trained swimmer and have participated in and won many competitions. 
+- Food is my fuel for coding. 
 
-Thanks for visiting my profile! Let's build something amazing together! ✨
+Thanks for visiting my profile! Let's build something amazing together! 
