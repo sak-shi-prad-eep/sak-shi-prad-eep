@@ -27,6 +27,6 @@ A machine learning project that focuses on classifying data into different categ
 Feel free to reach out to me through any of the following channels:
 
 - **Email:** [sakshipradeep03@gmail.com]
-- **LinkedIn:** [Sakshi Pradeep](www.linkedin.com/in/sakshi-pradeep-88a84a21b)
+- **LinkedIn:** [www.linkedin.com/in/sakshi-pradeep-88a84a21b]
 
 Thanks for visiting my profile!
