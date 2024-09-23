@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm excited to share my journey, projects, and int
 I am a passionate developer, lifelong learner, and tech enthusiast. I enjoy exploring new technologies and building innovative solutions to real-world problems. My areas of interest include:
 
 - **Software Development:** Building robust and scalable applications.
-- **Web Development:** Creating beautiful and responsive web interfaces.
 - **Data Science:** Analyzing data to uncover meaningful insights.
 - **Open Source:** Contributing to and learning from the open-source community.
 
