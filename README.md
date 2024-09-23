@@ -21,12 +21,14 @@ A machine learning project that analyzes the Titanic dataset to classify passeng
 ### [Project 3: Income Classification Project](https://github.com/sak-shi-prad-eep/Income-Classification-Project)
 A machine learning project that focuses on classifying data into different categories. It includes data preprocessing, model training, and evaluation. Implemented using Python, scikit-learn, and Jupyter Notebook.
 
+### [Project 4: Report Card System](https://github.com/sak-shi-prad-eep/Report-Card-System)
+A comprehensive desktop application for managing student grades with different access levels for admins, teachers, and students. Features include a login system, admin and teacher panels, and a student report card viewer. Built with Python and Tkinter, using MySQL for data storage.
+
 ## How to Reach Me
 
 Feel free to reach out to me through any of the following channels:
 
 - **Email:** [sakshipradeep03@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/sakshi-pradeep-88a84a21b]
-
 
 Thank you for visiting my profile!
