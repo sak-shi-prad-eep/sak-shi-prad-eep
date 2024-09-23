@@ -16,10 +16,10 @@ I am a passionate developer, lifelong learner, and tech enthusiast. I enjoy expl
 ### [Project 1: Quiz Project](https://github.com/sak-shi-prad-eep/Quiz-Project)
 A web-based application that allows users to take a quiz on various topics. Features include score tracking, passing levels, and answer correction. Built with Python.
 
-### [Project 2: Titanic Data Classification](https://github.com/sak-shi-prad-eep/titanic-data-classification)
+### [Project 2: Titanic Data Classification](https://github.com/sak-shi-prad-eep/Titanic-Survival-Prediction)
 A machine learning project that analyzes the Titanic dataset to classify passengers based on survival probability. Includes data preprocessing, feature engineering, model training, and evaluation. Built using Python, pandas, and scikit-learn.
 
-### [Project 3: Data Classification Project](https://github.com/sak-shi-prad-eep/data-classification-project)
+### [Project 3: Income Classification Project](https://github.com/sak-shi-prad-eep/Income-Classification-Project)
 A machine learning project that focuses on classifying data into different categories. It includes data preprocessing, model training, and evaluation. Implemented using Python, scikit-learn, and Jupyter Notebook.
 
 ## How to Reach Me
