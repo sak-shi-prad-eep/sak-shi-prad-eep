@@ -28,6 +28,5 @@ Feel free to reach out to me through any of the following channels:
 
 - **Email:** [sakshipradeep03@gmail.com]
 - **LinkedIn:** [Sakshi Pradeep](www.linkedin.com/in/sakshi-pradeep-88a84a21b)
-- **Instagram:** [@sakshi_pradeep21](https://www.instagram.com/sakshi_pradeep21/)
 
 Thanks for visiting my profile!
