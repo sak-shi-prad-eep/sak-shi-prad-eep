@@ -29,4 +29,5 @@ Feel free to reach out to me through any of the following channels:
 - **Email:** [sakshipradeep03@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/sakshi-pradeep-88a84a21b]
 
-Thanks for visiting my profile!
+
+Thank you for visiting my profile!
