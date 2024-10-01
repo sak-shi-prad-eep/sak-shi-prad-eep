@@ -24,6 +24,9 @@ A machine learning project that focuses on classifying data into different categ
 ### [Project 4: Report Card System](https://github.com/sak-shi-prad-eep/Report-Card-System)
 A comprehensive desktop application for managing student grades with different access levels for admins, teachers, and students. Features include a login system, admin and teacher panels, and a student report card viewer. Built with Python and Tkinter, using MySQL for data storage.
 
+### [Project 5: Face Mask Detection](https://github.com/sak-shi-prad-eep/Face-Mask-Detection)
+A deep learning project that detects whether a person is wearing a face mask or not. Utilizes computer vision techniques and convolutional neural networks to classify images in real-time. Built with Python, TensorFlow, and OpenCV.
+
 ## How to Reach Me
 
 Feel free to reach out to me through any of the following channels:
